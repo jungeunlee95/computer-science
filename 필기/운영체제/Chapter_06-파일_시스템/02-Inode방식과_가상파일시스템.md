@@ -1,6 +1,6 @@
 [toc]
 
-# 가상 메모리 (Virtual Memory System)
+# 파일 시스템 (File System)
 
 ## :heavy_check_mark: 
 
