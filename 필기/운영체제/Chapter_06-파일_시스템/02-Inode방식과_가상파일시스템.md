@@ -1,4 +1,4 @@
-[toc]
+[TOC]
 
 # 파일 시스템 (File System)
 
@@ -6,16 +6,18 @@
 
 - 파일 시스템 기본 구조
 
-  - 수퍼 블록: 파일 시스템 정보
+  ### 수퍼 블록: 파일 시스템 정보
 
-    ![image-20210227204319625](assets/image-20210227204319625.png)
+  ![image-20210227204319625](assets/image-20210227204319625.png)
 
-    
+  
 
 
 
 <hr>
+
 ## :heavy_check_mark: 아이노드 블록: 파일 상세 정보
+
 
 - 파일: inode 고유 값과 자료구조에 의해 주요 정보 관리
 - '파일이름:inode' 로 파일 이름은 inode 번호와 매칭
@@ -55,7 +57,9 @@ files.txt에 맞는 inode 번호 로 블럭 접근
 
 
 <hr>
+
 ## :heavy_check_mark: 티렉토리 엔트리
+
 
 - 리눅스 파일 탐색 예 `/home/ubuntu/ink.txt`
   - 각 디렉토리 엔트리(dentry)를 탐색
