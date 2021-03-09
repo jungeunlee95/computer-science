@@ -15,7 +15,9 @@
 
 
 <hr>
+
 ## :heavy_check_mark: 프로세스 생성
+
 
 - 기본 프로세스 생성 과정
   - TEXT, DATA, BSS, HEAP, STACK의 공간 생성
@@ -28,7 +30,9 @@
 
 
 <hr>
+
 ## :heavy_check_mark: `fork()`, `exec()` 시스템 콜
+
 
 ### `fork()` 시스템 콜
 
