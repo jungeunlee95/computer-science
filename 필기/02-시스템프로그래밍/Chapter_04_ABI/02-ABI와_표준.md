@@ -13,7 +13,9 @@
 
 
 <hr>
+
 ## :heavy_check_mark: C 컴파일러
+
 
 - 유닉스 C 컴파일러 - cc
 
@@ -32,7 +34,9 @@
 
 
 <hr>
+
 ## :heavy_check_mark: ABI (Application Binary Interface)
+
 
 - 응용 프로그램 바이너리 인터페이스
 - 함수 실행 방식, 레지스터 활용, 시스템 콜 실행, 라이브러리 링크 방식 등
@@ -44,7 +48,9 @@
 
 
 <hr>
+
 ## :heavy_check_mark: POSIX
+
 
 - 유닉스 시스템 프로그래밍 인터페이스 표준
 - IEEE(Institute of Eletronic and Electronics Engineers)에서 표준화 시도
