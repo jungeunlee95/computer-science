@@ -18,8 +18,8 @@
 
 
 
-<hr>
 ## :heavy_check_mark: copy-on-write
+
 
 ### `fork()`는 새로운 프로세스 공간 생성 후, 기존 프로세스 공간 복사
 
