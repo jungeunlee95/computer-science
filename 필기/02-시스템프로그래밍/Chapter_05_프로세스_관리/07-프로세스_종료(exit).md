@@ -21,8 +21,8 @@ void exit(int status); // 인자: 프로세스 종료 상태 번호
 
 
 
-<hr>
 ## :heavy_check_mark: Status
+
 
 - 부모 프로세스는 status & 0377 계산 값으로 자식 프로세스 종료 상태 확인 가능
 
@@ -35,8 +35,8 @@ exit(EXIT_FAILURE); // 1
 
 
 
-<hr>
 ## :heavy_check_mark: 주요 동작
+
 
 - `atexit()`에 등록된 함수 실행
 
@@ -62,8 +62,8 @@ exit(EXIT_FAILURE); // 1
 
 
 
-<hr>
 ## :heavy_check_mark: `atexit` 예제
+
 
 ![image-20210309175528545](assets/image-20210309175528545.png)
 

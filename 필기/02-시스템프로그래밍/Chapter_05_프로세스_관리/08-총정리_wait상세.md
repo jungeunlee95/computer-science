@@ -28,8 +28,10 @@
 
   <img src="assets/image-20210309191417226.png" alt="image-20210309191417226" style="zoom:80%;" />
 
-<hr>
+
+
 ## :heavy_check_mark: 코드예제
+
 
 ```c
 #include <sys/types.h>
