@@ -26,11 +26,17 @@
 - 부동 소수(Floating-point Number)연산: FPU(Floating-Point Unit)
 - 최근에는 ALU가 부동 소수 연산까지 처리
 
+![image-20210318224834307](assets/image-20210318224834307.png)
+
 
 
 ### 산술연산
 
 덧셈, 뺄셈, 곱셈, 나눗셈, 증가, 감소, 보수
+
+![image-20210318225250866](assets/image-20210318225250866.png)
+
+
 
 
 
@@ -38,37 +44,19 @@
 
 AND, OR, NOT, XOR, 시프트(shift)
 
-
-
-![image-20210318224834307](assets/image-20210318224834307.png)
-
+![image-20210318225423189](assets/image-20210318225423189.png)
 
 
 
+### 논리연산 예
 
-
-## :heavy_check_mark: 부제
-
-
-
+![image-20210318225807285](assets/image-20210318225807285.png)
 
 
 
+### 시프트 연산 예
 
-
-## :heavy_check_mark: 부제
-
-
-
-
-
-
-
-
-
-
-
-
+![image-20210318225952715](assets/image-20210318225952715.png)
 
 
 
