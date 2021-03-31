@@ -1,6 +1,6 @@
 [toc]
 
-# 제목
+# DHCP
 
 ## :heavy_check_mark: 부제
 
